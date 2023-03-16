@@ -22,7 +22,7 @@ From here you can use postman || insomnia || thunderclient to send requests and 
 
 ## Screenshots
 
-I user a pattern for commits that makes them easily readable and faster to understand changes that were made!
+I use a pattern for commits that makes them easily readable and faster to understand changes that were made!
 
 ![App Screenshot](https://i.imgur.com/T6AbvFr.png)
 
